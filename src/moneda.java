@@ -16,7 +16,7 @@ public class moneda {
             System.out.print("\nLa tirada " + tiradaActual + " ha sido cara");
         } else {
             //no ha sido cara
-            System.out.print("\nLa tirada " + tiradaActual + " ha sido cara");
+            System.out.print("\nLa tirada " + tiradaActual + " ha sido cruz");
         }
        }
 
