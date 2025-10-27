@@ -1,0 +1,5 @@
+# Ignorar carpetas y archivos de Eclipse
+bin/
+.settings/
+.classpath
+.project
