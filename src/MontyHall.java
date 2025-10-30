@@ -5,7 +5,6 @@ public class MontyHall {
         int victoriasManteniendo = 0;
         int victoriasCambiando = 0;
 
-        // Repetimos el juego varias veces
         for (int i = 0; i < partidas; i = i + 1) {
 
             // 1. Puerta con premio (0,1,2)
