@@ -7,10 +7,10 @@ public class ArrayAleatorio {
         System.out.print("Introduce el número de elementos del array: ");
         int n = sc.nextInt();
 
-        System.out.print("Introduce el valor mínimo: "); //valor máximo
+        System.out.print("Introduce el valor mínimo: "); //valor mínimo
         double min = sc.nextDouble();
 
-        System.out.print("Introduce el valor máximo: "); //valor mínimo
+        System.out.print("Introduce el valor máximo: "); //valor máximo
         double max = sc.nextDouble();
 
         double[] numeros = new double[n];
